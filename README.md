@@ -34,7 +34,7 @@ The chatbot will use Gemini AI to understand user inputs and generate contextual
 - **Backend:** Node.js, Express
 - **Frontend:** HTML, CSS
 - **AI & NLP:** Gemini AI, PyTorch, LangChain
-- **Database:** MongoDB (for storing user interaction data, if required)
+- **Database:** MongoDB (for storing user interaction data)
 - **Real-Time Communication:** Socket.IO, WebRTC
 - **Vector Database:** ChromaDB
 - **Authentication:** JWT, OAuth
