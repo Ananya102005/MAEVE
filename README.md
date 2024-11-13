@@ -1,5 +1,5 @@
 # MAEVE
-she who intoxicates" or "the bringer of great joy
+She who intoxicates and the bringer of great joy
 
 ## Table of Contents
 1. [Introduction](#introduction)
