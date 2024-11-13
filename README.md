@@ -65,8 +65,8 @@ The chatbot system architecture consists of:
 Human-to-Human interaction:
 	This component allows women facing emotional or mental health challenges to connect with others  who may understand their experiences (in a private, anonymous environment).
 	So here the users can do two things: 
-	• Seek help from others
-	• Offer support themselves
+	-Seek help from others
+	-Offer support themselves
 	
 Asking for help:
 	• Posting a Query: Users can post their issues or questions publicly for other members to see. This query will be visible to all, allowing potential helpers to find and respond to those they feel they can support.
