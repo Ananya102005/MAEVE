@@ -100,7 +100,7 @@ This human-chat option encourages mutual support and sharing within the communit
 This video demonstrates how the platform works, including how the chatbot interacts with the user, provides personalized support, and offers resources. It also showcases the interface of the User-User interactions.
 
 ## Conclusion
-The Personalized Mental Health Chatbot for Women Facing Challenges aims to make mental health support more accessible and personalized for women. By using Gemini AI, it can offer timely assistance, reduce stress, and promote overall well-being. This chatbot serves as an important tool in addressing the mental health needs of women.The other aspect of women's mental health in this applictaion is connecting women who are going through similar life experiences. This platform provides a safe space for women to express, heal, and help themselves and others.
+The Personalized Mental Health Chatbot for Women Facing Challenges aims to make mental health support more accessible and personalized for women. By using Gemini AI, it can offer timely assistance, reduce stress, and promote overall well-being. This chatbot serves as an important tool in addressing the mental health needs of women.The other aspect of women's mental health in this applictaion is connecting women who are going through similar life experiences. This platform provides a safe space for women to express, heal,and help themselves and others.
 
 ## Future Improvement
 - *Expanding Language Support*: Incorporating multilingual support for a wider audience.
