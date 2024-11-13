@@ -62,16 +62,16 @@ The chatbot system architecture consists of:
 - *Feedback Mechanism*: Users can provide feedback on the chatbot’s responses for continuous improvement.
 
   
-# Human-to-Human interaction:
+### Human-to-Human interaction:
 This component allows women facing emotional or mental health challenges to connect with others  who may understand their experiences (in a private, anonymous environment).So here the users can do two things: 
 -Seek help from others
 -Offer support themselves
 	
-# Asking for help:
+### Asking for help:
 -*Posting a Query*: Users can post their issues or questions publicly for other members to see. This query will be visible to all, allowing potential helpers to find and respond to those they feel they can support.
 -*Selecting a Helper*: Once a user posts a query, they will receive notifications when other users express interest in helping. The user seeking help can then review these notifications and select one person to initiate a private, one-on-one conversation for more personalized support.
 
-# Helper view:
+### Helper view:
 -*Viewing Queries*: Helpers have access to a list of queries posted by users who need support. They can browse these and find queries they feel equipped or inspired to respond to.
 -*Expressing Interest*: If a helper wants to offer assistance, they can click "I want to help" on a specific query. Before sending this request, helpers will provide a brief description explaining why they’re interested—such as having similar experiences or specific ways they believe they can assist.
 	• Private Conversations: When the user who posted the query accepts a helper’s offer, both users are directed to a private conversation, creating a safe space for open and empathetic dialogue.
