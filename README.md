@@ -78,9 +78,19 @@ This component allows women facing emotional or mental health challenges to conn
 ### Helper view:
 -*Viewing Queries*: Helpers have access to a list of queries posted by users who need support. They can browse these and find queries they feel equipped or inspired to respond to.
 -*Expressing Interest*: If a helper wants to offer assistance, they can click "I want to help" on a specific query. Before sending this request, helpers will provide a brief description explaining why they’re interested—such as having similar experiences or specific ways they believe they can assist.
-	• Private Conversations: When the user who posted the query accepts a helper’s offer, both users are directed to a private conversation, creating a safe space for open and empathetic dialogue.
+-*Private Conversations*: When the user who posted the query accepts a helper’s offer, both users are directed to a private conversation, creating a safe space for open and empathetic dialogue.
 
 This human-chat option encourages mutual support and sharing within the community, empowering users to connect, help each other, and find understanding in a secure, respectful environment.
+
+## How the website helps Women Empowerment:
+
+-*Giving Women a Voice*: It provides a safe space for women to express themselves, share experiences, and seek support, helping reduce stigma around mental health and gender-based issues.
+•	Building Solidarity: Through peer support, women empower each other by sharing advice and emotional comfort, fostering a sense of community and connection.
+•	Making Mental Health Accessible: The platform removes barriers to mental health care by offering anonymous, free support, particularly for issues women uniquely face, like discrimination and harassment.
+•	Empowering with Knowledge: It provides legal resources and guidance to help women navigate challenges like harassment and abuse, promoting equality and informed action.
+•	Normalizing Gender Conversations: The platform raises awareness of gender inequalities, encouraging open discussions about issues like violence and workplace discrimination.
+•	Safe and Inclusive Space: It offers a secure, inclusive environment for women from all backgrounds to seek help, ensuring they feel valued and supported.
+
 
 
 ## Demo Video
