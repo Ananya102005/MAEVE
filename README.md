@@ -50,7 +50,7 @@ The chatbot system architecture consists of:
 - *Database*: Stores necessary user interaction data, such as session history.
 
 ## User Interaction Flow
- Chatbot:
+ ### Chatbot:
 1. The user opens the chatbot interface and gets authenticated before they can initiate a conversation.
 2. The chatbot asks questions related to their emotional state or challenges.
 3. Based on the user's responses, the chatbot offers personalized advice and resources.
@@ -62,7 +62,7 @@ The chatbot system architecture consists of:
 - *Feedback Mechanism*: Users can provide feedback on the chatbot’s responses for continuous improvement.
 
   
-### Human-to-Human interaction:
+## Human-to-Human interaction:
 This component allows women facing emotional or mental health challenges to connect with others  who may understand their experiences (in a private, anonymous environment).So here the users can do two things: 
 -Seek help from others
 -Offer support themselves
