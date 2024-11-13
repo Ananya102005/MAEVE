@@ -17,17 +17,17 @@
 
 
 ## Introduction
-This project is focused on developing a personalized mental health chatbot designed specifically for women facing challenges, utilizing the capabilities of *Gemini AI*. The chatbot provides a safe and confidential space for users to discuss mental health concerns, seek advice, and receive support. By leveraging the advanced contextual understanding of Gemini AI, the chatbot can interpret user inputs and offer highly personalized, context-aware responses tailored to individual situations. This technology enables the chatbot to provide intricate support, fostering a space where users feel understood and empowered on their journey to mental well-being.
+This project is focused on developing a personalized mental health chatbot designed specifically for women facing challenges, utilizing the capabilities of Gemini AI. The chatbot provides a safe and confidential space for users to discuss mental health concerns, seek advice, and receive support. By leveraging the advanced contextual understanding of Gemini AI, the chatbot can interpret user inputs and offer highly personalized, context-aware responses tailored to individual situations. This technology enables the chatbot to provide intricate support, fostering a space where users feel understood and empowered on their journey to mental well-being.
 ## Problem Statement
-In today's world, women often face unique challenges such as gender bias, discrimination, and a lack of support,etc. These challenges can lead to stress, anxiety, and burnout. Despite the growing recognition of mental health, there is a lack of accessible mental health resources that cater specifically to women’s needs in a professional setting.
+In today's world, women often face unique challenges such as gender bias, discrimination, and a lack of support,etc. These challenges can lead to stress, anxiety, and burnout. Despite the growing recognition of mental health, there is a lack of accessible mental health resources that cater specifically to women’s needs.
 
 ## Objective
-The objective of this project is to create a chatbot that can assist women by providing mental health support tailored to their workplace challenges. The chatbot should:
-- Offer personalized responses based on user inputs.
-- Provide resources and advice for managing workplace stress and emotional well-being.
+The objective of this project is to create a chatbot that can assist women by providing mental health support tailored to their challenges. The chatbot:
+- Offers personalized responses based on user inputs.
+- Provide resources and advice for managing stress and emotional well-being.
 - Maintain user privacy and confidentiality.
 ## Solution Overview
-The chatbot will use machine learning and NLP techniques to understand user inputs and generate contextually appropriate responses. It will be accessible through a simple user interface, either via a web application or messaging platform, making it easily available to users at any time.
+The chatbot will use Gemini AI to understand user inputs and generate contextually appropriate responses. It will be accessible through a simple user interface web application, making it easily available to users at any time.
 
 ## Technology Stack
 - *Backend*: Node.js, Express
