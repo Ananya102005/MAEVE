@@ -30,15 +30,15 @@ The objective of this project is to create a chatbot that can assist women by pr
 The chatbot will use Gemini AI to understand user inputs and generate contextually appropriate responses. It will be accessible through a simple user interface web application, making it easily available to users at any time.
 
 ## Technology Stack
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Backend:** Node.js, Express
+
+- **Backend:** Node.js,Python, JavaScript
 - **Frontend:** HTML, CSS
-- **AI & NLP:** Gemini AI, PyTorch, LangChain
+- **AI :** Gemini AI, LangChain
 - **Database:** MongoDB (for storing user interaction data)
 - **Real-Time Communication:** Socket.IO, WebRTC
 - **Vector Database:** ChromaDB
 - **Authentication:** JWT, OAuth
-- **Hosting:** Heroku, AWS, or Google Cloud Platform (GCP)
+- **Hosting:**  Google Cloud Platform (GCP)
 
 
 ## Core Features
