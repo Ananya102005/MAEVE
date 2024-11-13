@@ -52,6 +52,8 @@ The chatbot system architecture consists of:
 - *Frontend*: Web interface where users interact with the chatbot.
 - *Backend*: Handles user inputs, processes through Gemini AI, and sends appropriate responses.
 - *Database*: Stores necessary user interaction data, such as session history.
+  
+![Customer Journey Map](https://github.com/user-attachments/assets/67c3489c-c52a-4c19-826d-60c1178ab76a)
 
 ## User Interaction Flow
  ### Chatbot
