@@ -82,7 +82,7 @@ This component allows women facing emotional or mental health challenges to conn
 
 This human-chat option encourages mutual support and sharing within the community, empowering users to connect, help each other, and find understanding in a secure, respectful environment.
 
-## How the website helps Women Empowerment:
+## How the website helps in Women Empowerment and Gender Equality:
 
 -*Giving Women a Voice*: It provides a safe space for women to express themselves, share experiences, and seek support, helping reduce stigma around mental health and gender-based issues.
 -*Building Solidarity*: Through peer support, women empower each other by sharing advice and emotional comfort, fostering a sense of community and connection.
