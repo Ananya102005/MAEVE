@@ -55,20 +55,31 @@ The chatbot system architecture consists of:
 2. The chatbot asks questions related to their emotional state or challenges.
 3. Based on the user's responses, the chatbot offers personalized advice and resources.
 4. The user can choose to continue the conversation or end the session.
- ##User-User:
-Asking for help:
-1. Posting a Query:Users can post their issues or questions publicly for other members to see.This query will be visible to all, allowing potential helpers to find and respond to those they feel they can support.
-2. Selecting a Helper:Once the user posts a query, they recieve a notification when other users express interest in helping.The user seeking help can review these notifictions and select one person to intitiate a private, one-on-one conversation for personalized support.
-Helper view: 
-1.Viewing Queries: Helpers have access to a list of queries posted by users who need support. They can browse these and find queries they feel equipped or inspired to respond to. 
-2.Expressing Interest: If a helper wants to offer assistance, they can click "I want to help" on a specific query. Before sending this request, helpers will provide a brief description explaining why they’re interested—such as having similar experiences or specific ways they believe they can assist. 
-3.Private Conversations: When the user who posted the query accepts a helper’s offer, both users are directed to a private conversation, creating a safe space for open and empathetic dialogue.
-
-## Key Functionalities
+   ## Key Functionalities
 - *Text Analysis*: The bot analyzes the user's input to detect emotional tone and context.
 - *Personalized Recommendations*: Based on the detected context, it suggests tailored resources and coping mechanisms.
 - *Privacy Protection*: Ensures that all user data is stored securely and anonymously.
 - *Feedback Mechanism*: Users can provide feedback on the chatbot’s responses for continuous improvement.
+
+  
+Human-to-Human interaction:
+	This component allows women facing emotional or mental health challenges to connect with others  who may understand their experiences (in a private, anonymous environment).
+	So here the users can do two things: 
+	• Seek help from others
+	• Offer support themselves
+	
+Asking for help:
+	• Posting a Query: Users can post their issues or questions publicly for other members to see. This query will be visible to all, allowing potential helpers to find and respond to those they feel they can support.
+	• Selecting a Helper: Once a user posts a query, they will receive notifications when other users express interest in helping. The user seeking help can then review these notifications and select one person to initiate a private, one-on-one conversation for more personalized support.
+
+Helper view:
+	• Viewing Queries: Helpers have access to a list of queries posted by users who need support. They can browse these and find queries they feel equipped or inspired to respond to.
+	• Expressing Interest: If a helper wants to offer assistance, they can click "I want to help" on a specific query. Before sending this request, helpers will provide a brief description explaining why they’re interested—such as having similar experiences or specific ways they believe they can assist.
+	• Private Conversations: When the user who posted the query accepts a helper’s offer, both users are directed to a private conversation, creating a safe space for open and empathetic dialogue.
+
+This human-chat option encourages mutual support and sharing within the community, empowering users to connect, help each other, and find understanding in a secure, respectful environment.
+
+
 ## Demo Video
 [Link to Demo Video](#) 
 
