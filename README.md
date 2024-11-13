@@ -17,7 +17,7 @@
 
 
 ## Introduction
-This project is focused on developing a personalized mental health chatbot designed specifically for women facing challenges, utilizing the capabilities of Gemini AI. The chatbot provides a safe and confidential space for users to discuss mental health concerns, seek advice, and receive support. By leveraging the advanced contextual understanding of Gemini AI, the chatbot can interpret user inputs and offer highly personalized, context-aware responses tailored to individual situations. This technology enables the chatbot to provide intricate support, fostering a space where users feel understood and empowered on their journey to mental well-being.
+This project is focused on developing a personalized mental health chatbot designed specifically for women facing challenges, utilizing the capabilities of Gemini AI. The chatbot provides a safe and confidential space for users to discuss mental health concerns, seek advice, and receive support. By leveraging the advanced contextual understanding of Gemini AI, the chatbot can interpret user inputs and offer highly personalized, context-aware responses tailored to individual situations. This technology enables the chatbot to provide intricate support, fostering a space where users feel understood and empowered on their journey to mental well-being.In addition to the chatbot, this website provides a support system for women in need, allowing users to anonymously interact with others. By posting query-like statements, users can recieve help from others who are using the platform.
 ## Problem Statement
 In today's world, women often face unique challenges such as gender bias, discrimination, and a lack of support,etc. These challenges can lead to stress, anxiety, and burnout. Despite the growing recognition of mental health, there is a lack of accessible mental health resources that cater specifically to women’s needs.
 
@@ -32,6 +32,7 @@ The chatbot will use Gemini AI to understand user inputs and generate contextual
 ## Technology Stack
 - *Backend*: Node.js, Express
 - *Frontend*: HTML,CSS
+- *Text processing and response*:Gemini AI
 - *Database*: MongoDB (for storing user interaction data, if required)
 - *Authentication*: JWT, OAuth
 - *Hosting*: Heroku, AWS, or Google Cloud Platform
@@ -49,10 +50,19 @@ The chatbot system architecture consists of:
 - *Database*: Stores necessary user interaction data, such as session history.
 
 ## User Interaction Flow
+ ##Chatbot:
 1. The user opens the chatbot interface and gets authenticated before they can initiate a conversation.
 2. The chatbot asks questions related to their emotional state or challenges.
 3. Based on the user's responses, the chatbot offers personalized advice and resources.
 4. The user can choose to continue the conversation or end the session.
+ ##User-User:
+Asking for help:
+1. Posting a Query:Users can post their issues or questions publicly for other members to see.This query will be visible to all, allowing potential helpers to find and respond to those they feel they can support.
+2. Selecting a Helper:Once the user posts a query, they recieve a notification when other users express interest in helping.The user seeking help can review these notifictions and select one person to intitiate a private, one-on-one conversation for personalized support.
+Helper view: 
+1.Viewing Queries: Helpers have access to a list of queries posted by users who need support. They can browse these and find queries they feel equipped or inspired to respond to. 
+2.Expressing Interest: If a helper wants to offer assistance, they can click "I want to help" on a specific query. Before sending this request, helpers will provide a brief description explaining why they’re interested—such as having similar experiences or specific ways they believe they can assist. 
+3.Private Conversations: When the user who posted the query accepts a helper’s offer, both users are directed to a private conversation, creating a safe space for open and empathetic dialogue.
 
 ## Key Functionalities
 - *Text Analysis*: The bot analyzes the user's input to detect emotional tone and context.
@@ -63,12 +73,14 @@ The chatbot system architecture consists of:
 [Link to Demo Video](#) 
 
 ## Video Description
-This video demonstrates how the chatbot works, including how it interacts with the user, provides personalized support, and offers resources. It also showcases the user interface and the underlying technology used to build the system.
+This video demonstrates how the platform works, including how the chatbot interacts with the user, provides personalized support, and offers resources. It also showcases the interface of the User-User interactions.
 
 ## Conclusion
-The Personalized Mental Health Chatbot for Women Facing Challenges aims to make mental health support more accessible and personalized for women. By using Gemini AI, it can offer timely assistance, reduce stress, and promote overall well-being. This chatbot serves as an important tool in addressing the mental health needs of women.
+The Personalized Mental Health Chatbot for Women Facing Challenges aims to make mental health support more accessible and personalized for women. By using Gemini AI, it can offer timely assistance, reduce stress, and promote overall well-being. This chatbot serves as an important tool in addressing the mental health needs of women.The other aspect of women's mental health in this applictaion is connecting women who are going through similar life experiences. This platform provides a safe space for women to express, heal, and help themselves and others.
 
 ## Future Improvement
 - *Expanding Language Support*: Incorporating multilingual support for a wider audience.
 - *Integration with HR Systems*: To provide further tailored advice based on workplace-specific challenges.
 - *Emotional Intelligence Enhancements*: Using Gemini AI to better understand and respond to complex emotional cues.
+- *Addition of voice support*: Using speech processing to make the chatbot more accessible and interactive.
+- *Connecting women in workspaces*:Connecting women in the same workplace as a support system.
