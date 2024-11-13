@@ -1,5 +1,4 @@
-# MAEVE
-She who intoxicates and brings great joy
+# MAEVE-She who intoxicates and brings great joy
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -18,7 +17,7 @@ She who intoxicates and brings great joy
 
 
 ## Introduction
-This project is focused on developing a personalized mental health chatbot designed specifically for women facing challenges. The chatbot provides a safe and confidential space for users to discuss their mental health concerns, seek advice, and receive support. Using natural language processing (NLP), the chatbot can understand user inputs and offer tailored responses based on their individual situations.
+This project is focused on developing a personalized mental health chatbot designed specifically for women facing challenges, utilizing the capabilities of *Gemini AI*. The chatbot provides a safe and confidential space for users to discuss mental health concerns, seek advice, and receive support. By leveraging the advanced contextual understanding of Gemini AI, the chatbot can interpret user inputs and offer highly personalized, context-aware responses tailored to individual situations. This technology enables the chatbot to provide intricate support, fostering a space where users feel understood and empowered on their journey to mental well-being.
 ## Problem Statement
 In today's world, women often face unique challenges such as gender bias, discrimination, and a lack of support,etc. These challenges can lead to stress, anxiety, and burnout. Despite the growing recognition of mental health, there is a lack of accessible mental health resources that cater specifically to women’s needs in a professional setting.
 
