@@ -31,29 +31,26 @@ The chatbot will use Gemini AI to understand user inputs and generate contextual
 
 ## Technology Stack
 - *Backend*: Node.js, Express
-- *Frontend*: React.js 
-- *Natural Language Processing*: spaCy, NLTK, or Dialogflow
+- *Frontend*: HTML,CSS
 - *Database*: MongoDB (for storing user interaction data, if required)
 - *Authentication*: JWT, OAuth
 - *Hosting*: Heroku, AWS, or Google Cloud Platform
 
 ## Core Features
 - *Personalized Conversations*: Tailored responses based on the user's inputs.
-- *Real-time Support*: Immediate help and advice for workplace challenges.
+- *Real-time Support*: Immediate help and advice for challenges.
 - *Confidentiality*: Secure data storage and interaction handling.
-- *Resource Sharing*: Links to articles, videos, and other resources for mental health support.
 
 
 ## System Architecture
 The chatbot system architecture consists of:
-- *Frontend*: Web or mobile interface where users interact with the chatbot.
-- *Backend*: Handles user inputs, processes through NLP models, and sends appropriate responses.
-- *Database*: Stores any necessary user interaction data, such as session history.
-- *API Integrations*: For fetching external mental health resources.
+- *Frontend*: Web interface where users interact with the chatbot.
+- *Backend*: Handles user inputs, processes through Gemini AI, and sends appropriate responses.
+- *Database*: Stores necessary user interaction data, such as session history.
 
 ## User Interaction Flow
-1. The user opens the chatbot interface and initiates a conversation.
-2. The chatbot asks questions related to their emotional state or challenges at work.
+1. The user opens the chatbot interface and gets authenticated before they can initiate a conversation.
+2. The chatbot asks questions related to their emotional state or challenges.
 3. Based on the user's responses, the chatbot offers personalized advice and resources.
 4. The user can choose to continue the conversation or end the session.
 
@@ -69,9 +66,9 @@ The chatbot system architecture consists of:
 This video demonstrates how the chatbot works, including how it interacts with the user, provides personalized support, and offers resources. It also showcases the user interface and the underlying technology used to build the system.
 
 ## Conclusion
-The Personalized Mental Health Chatbot for Women Facing Workplace Challenges aims to make mental health support more accessible and personalized for women in the workplace. By using AI and NLP, it can offer timely assistance, reduce stress, and promote overall well-being. This chatbot serves as an important tool in addressing the mental health needs of women, especially in professional environments.
+The Personalized Mental Health Chatbot for Women Facing Challenges aims to make mental health support more accessible and personalized for women. By using Gemini AI, it can offer timely assistance, reduce stress, and promote overall well-being. This chatbot serves as an important tool in addressing the mental health needs of women.
 
 ## Future Improvement
 - *Expanding Language Support*: Incorporating multilingual support for a wider audience.
-- *Integration with HR Systems*: To provide further tailored advice based on company-specific challenges.
-- *Emotional Intelligence Enhancements*: Using advanced machine learning techniques to better understand and respond to complex emotional cues.
+- *Integration with HR Systems*: To provide further tailored advice based on workplace-specific challenges.
+- *Emotional Intelligence Enhancements*: Using Gemini AI to better understand and respond to complex emotional cues.
