@@ -20,7 +20,7 @@ She who intoxicates and brings great joy
 ## Introduction
 This project is focused on developing a personalized mental health chatbot designed specifically for women facing challenges. The chatbot provides a safe and confidential space for users to discuss their mental health concerns, seek advice, and receive support. Using natural language processing (NLP), the chatbot can understand user inputs and offer tailored responses based on their individual situations.
 ## Problem Statement
-In today's workplace, women often face unique challenges such as gender bias, discrimination, and a lack of support. These challenges can lead to stress, anxiety, and burnout. Despite the growing recognition of mental health, there is a lack of accessible mental health resources that cater specifically to women’s needs in a professional setting.
+In today's world, women often face unique challenges such as gender bias, discrimination, and a lack of support,etc. These challenges can lead to stress, anxiety, and burnout. Despite the growing recognition of mental health, there is a lack of accessible mental health resources that cater specifically to women’s needs in a professional setting.
 
 ## Objective
 The objective of this project is to create a chatbot that can assist women by providing mental health support tailored to their workplace challenges. The chatbot should:
