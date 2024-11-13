@@ -96,7 +96,7 @@ This human-chat option encourages mutual support and sharing within the communit
 
 
 ## Demo Video
-[Link to Demo Video](#) 
+https://youtu.be/fxfotrXGGAU
 
 ## Video Description
 This video demonstrates how the platform works, including how the chatbot interacts with the user, provides personalized support, and offers resources. It also showcases the interface of the User-User interactions.
